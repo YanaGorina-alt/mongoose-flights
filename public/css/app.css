@@ -1,0 +1,38 @@
+/* @import url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fplane-sky&psig=AOvVaw34GJKkVUW8PFq70caPLZ7R&ust=1683661268017000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJC9rpC95v4CFQAAAAAdAAAAABAF'); */
+
+body {
+    background-color:  #6EC1D9;
+    margin: 0;
+    font-family: 'Lato';
+  }
+  
+  h1 {
+    font-family: 'Righteous', cursive;
+    background-color: #D5E5F2;
+    margin: 0;
+    margin-bottom: 0.5em;
+    padding: 1em;
+    text-align: center;
+    color: #0B3D61; /* Add a color to ensure text visibility */
+    font-size: 2rem; /* Adjust the font size to your preference */
+    font-weight: bold; /* Optionally add font weight */
+    text-transform: uppercase; /* Optionally transform the text to uppercase */
+    border-radius: 5px; /* Optionally add a border radius for a rounded appearance */
+  }
+  
+  a {
+    color: #003A70;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+    font-size: 1.5em;
+    background: #D5E5F2;
+  }
+
+  a:hover {
+    color: #007bff;
+  }
+
+  input[type=text] {
+    padding: .3em;
+  }
+  

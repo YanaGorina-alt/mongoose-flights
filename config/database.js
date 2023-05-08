@@ -1,9 +1,4 @@
-// .env configuration
-require('dotenv').config();
-// Dependencies
 const mongoose = require('mongoose');
-const Tweet = require('./tweet');
-const data = require('./data');
 
 // Global configuration
 const mongoURI = process.env.MONGO_URI;
